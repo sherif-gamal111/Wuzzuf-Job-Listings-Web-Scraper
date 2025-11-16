@@ -178,6 +178,7 @@ I am fascinated by how systems work, how processes can be optimized, and how the
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
+[Gmail](sherif.gamal.kamel121@gmail.com).
 [LinkedIn]([www.linkedin.com/in/sherif-gamal-61a304336](https://www.linkedin.com/in/sherif-gamal-61a304336/))
 [Upwork](https://www.upwork.com/freelancers/~01b7b6e3cdf572d79e)
 [Freelancer](https://www.freelancer.com/u/SherifGamal5)
