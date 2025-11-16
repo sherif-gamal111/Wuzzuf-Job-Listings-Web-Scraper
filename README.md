@@ -97,14 +97,41 @@ wuzzuf.csv
 
 ---
 # 📁 Directory Structure
+```
 ├── scraper.py
 ├── wuzzuf.csv        # Generated after running
 └── README.md
+```
+
+---
+# 📦 Output Example
+
+| Job Title               | Company      | Post Date    | Location   | Skills                       | Time Status | Location Status | Salary        | Requirements                                |
+| ----------------------- | ------------ | ------------ | ---------- | ---------------------------- | ----------- | --------------- | ------------- | ------------------------------------------- |
+| Python Developer        | Digizilla    | 20 hours ago | Cairo      | Python, Django, APIs         | Full-Time   | On-site         | Not specified | Bachelor’s degree; 1–3 years experience…    |
+| Senior Backend Engineer | Confidential | 2 days ago   | Cairo      | Python, Node.js, AWS         | Full-Time   | On-site         | Not specified | Strong backend experience; cloud knowledge… |
+| Python Instructor       | CodeTreps    | 2 days ago   | Alexandria | Python basics, teaching kids | Part-Time   | On-site         | Not specified | Teaching experience; strong communication…  |
 
 ---
 # 📦 Output Example
 Job Title	Company	Location	Skills	Post Date	Salary	Requirements
 Data Engineer	XYZ	Cairo	Python, SQL	1 day ago	Not specified	Experience with ETL; SQL; APIs…
+
+## ✔ Example Use Cases
+
+You can use the exported data for:
+
+Job market trend analysis
+
+Skill frequency analytics
+
+Salary research
+
+Filtering roles by skill or seniority
+
+Building dashboards
+
+Automating job tracking
 
 ---
 # ▶️ Usage
@@ -135,6 +162,20 @@ If Wuzzuf changes its HTML structure, selectors may need adjustments.
 Pagination is determined by Wuzzuf’s internal layout (15 jobs per page).
 
 ---
-# 📄 License
+## 🛡️ License
 
-This project is open-source under the MIT License.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+## 🌟 About Me
+
+Hi, I’m Sherif, a Data Engineer with a strong foundation in Industrial Engineering and specialized in Data Engineering.
+I hold a Bachelor of Engineering (BEng) in Industrial Engineering from Canadian International College (CIC) and a Microsoft Data Engineering degree from Digital Egypt Pioneers Initiative (DEPI).
+I am fascinated by how systems work, how processes can be optimized, and how the right information at the right time can change everything. That curiosity led me to Industrial Engineering, and later, to Data Engineering.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[LinkedIn](www.linkedin.com/in/sherif-gamal-61a304336)
+[Upwork](https://www.upwork.com/freelancers/~01b7b6e3cdf572d79e)
+[Freelancer](https://www.freelancer.com/u/SherifGamal5)
+[Portfolio](https://sherif-gamal-data-engine-ns2r13f.gamma.site/)
