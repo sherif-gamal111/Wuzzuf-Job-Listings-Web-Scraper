@@ -98,10 +98,11 @@ wuzzuf.csv
 ---
 # 📁 Directory Structure
 ```
+├── LICENSE
+├── README.md
 ├── wuzzuf.py
 ├── wuzzuf.csv        # Generated after running
-└── README.md
-└── License
+
 ```
 
 ---
