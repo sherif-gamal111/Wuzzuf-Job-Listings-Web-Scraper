@@ -161,7 +161,7 @@ Pagination is determined by Wuzzuf’s internal layout (15 jobs per page).
 The script may take a bit long to finish when scraping many pages, because it collects data from both the search results and each individual job page (for salary and requirements).
 
 During execution, the program prints:
-Scraped page number: 1
+(Scraped page number: 1)
 This message indicates that the scraper is actively processing that page and helps the user track loading progress.
 
 ---
