@@ -113,25 +113,21 @@ wuzzuf.csv
 | Python Instructor       | CodeTreps    | 2 days ago   | Alexandria | Python basics, teaching kids | Part-Time   | On-site         | Not specified | Teaching experience; strong communication…  |
 
 ---
-# 📦 Output Example
-Job Title	Company	Location	Skills	Post Date	Salary	Requirements
-Data Engineer	XYZ	Cairo	Python, SQL	1 day ago	Not specified	Experience with ETL; SQL; APIs…
-
-## ✔ Example Use Cases
-
-You can use the exported data for:
-
-Job market trend analysis
-
-Skill frequency analytics
-
-Salary research
-
-Filtering roles by skill or seniority
-
-Building dashboards
-
-Automating job tracking
+  ## ✔ Example Use Cases
+  
+  You can use the exported data for:
+  
+  Job market trend analysis
+  
+  Skill frequency analytics
+  
+  Salary research
+  
+  Filtering roles by skill or seniority
+  
+  Building dashboards
+  
+  Automating job tracking
 
 ---
 # ▶️ Usage
