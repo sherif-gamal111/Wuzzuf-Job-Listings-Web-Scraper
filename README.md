@@ -98,9 +98,10 @@ wuzzuf.csv
 ---
 # 📁 Directory Structure
 ```
-├── scraper.py
+├── wuzzuf.py
 ├── wuzzuf.csv        # Generated after running
 └── README.md
+└── License
 ```
 
 ---
